@@ -1,0 +1,14 @@
+Folder PATH listing for volume DATA
+Volume serial number is 6CA9-82AB
+D:.
+    .env
+    App.jsx
+    Assistant.jsx
+    index.css
+    main.jsx
+    server.js
+    structure.txt
+    supabaseClient.js
+    
+No subfolders exist 
+
